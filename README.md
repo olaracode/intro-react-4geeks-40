@@ -8,7 +8,7 @@
 
 - [components](#)
 
-- [create-react-app](#)
+- [create-react-app](#create-react-app)
 
 ## Intro
 
@@ -128,4 +128,14 @@ npx create-react-app demoApp
 # Luego de correr el comando anterior
 
 cd demoApp && npm install
+```
+
+Si estas usando gitpod y no esta corriendo el servidor
+
+```bash
+npm install
+
+# Y
+
+npm run start
 ```
