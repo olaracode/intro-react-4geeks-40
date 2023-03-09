@@ -8,7 +8,7 @@
 
 - [components](#)
 
-- [create-react-app](#create-react-app)
+- [create-react-app Y correr proyecto](#create-react-app)
 
 ## Intro
 
